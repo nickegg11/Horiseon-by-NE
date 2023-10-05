@@ -34,5 +34,5 @@ THEN I find a concise, descriptive title
 
 URL: file:///C:/Users/nicke/bootcamp/MSU-VIRT-FSF-PT-09-2023-U-LOLC/01-HTML-Git-CSS/02-Challenge/Develop/index.html
 
-github repository: https://github.com/nickegg11/Horiseon
+github repository: https://github.com/nickegg11/Horiseon-by-NE
 
