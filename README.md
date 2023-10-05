@@ -1,4 +1,5 @@
-# Horiseon
+# Horiseon-by-NE
+
 # User Story
 
 AS A marketing agency
